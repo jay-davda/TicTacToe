@@ -6,7 +6,7 @@ The project focuses on improving DOM manipulation, styling, and basic game logic
 ---
 
 ## 🚀 Live Demo
-👉 [**Play Now**](https://github.com/jay-davda/TicTacToe)
+👉 [**Play Now**](https://jay-davda.github.io/TicTacToe/)
 
 ---
 
